@@ -1,7 +1,8 @@
-tempfile.txt
 .DS_Store
 *.zip
 *.gz
+tempfile.txt
+tempfile2.txt
 log/*.log
 log/*.log.[0-9]
 aseets/photoshop/
